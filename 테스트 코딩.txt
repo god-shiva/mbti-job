@@ -1,0 +1,45 @@
+https://prismatic-monstera-4c9d6a.netlify.app/
+
+vscode 확장탭 korean 한글 설치
+
+control + Shift + P 단축키 입력후
+
+settings.json
+사용자 설정 열기 들어간 후 
+{
+    "workbench.colorTheme": "Default Dark+",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.startupEditor": "none",
+    "php.validate.executablePath": "",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "explorer.enableDragAndDrop": false, //이건 뭔지 찾아보기.
+    "emmet.variables": { //자동완성 한글
+        "lang" : "ko"
+    },
+    "editor.tabSize": 4 //탭 들여쓰기
+}
+
+에밋 추가
+
+
+vscode 확장탭 자동완성기능 - auto rename 필수 사용
+
+그외 live server 로 로컬환경에서 바로 확인 가능
+
+
+netlify
+https://www.netlify.com/ 로그인
+
+
+
+----------------------------------
+폴더채 업로드 가능 - 서버 배포
+https://amazing-dolphin-d67b62.netlify.app/
+도메인 자동생성 - 
+
+
+https://matdongsane.tistory.com/65
+
